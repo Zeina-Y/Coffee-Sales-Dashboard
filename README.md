@@ -56,9 +56,10 @@ The dashboard includes:
 
 ## Project Files
 
-- **Excel Source Data**: Contain the original dataset
-- **Excel Workbook**: Contains the sales data, pivot tables, and dashboard.
+- **Excel Source Data**: Contain the original dataset. To download click [here](https://github.com/Zeina-Y/Coffee-Sales-Dashboard/blob/main/coffeeOrdersData.xlsx)
+- **Excel Workbook**: Contains the sales data, pivot tables, and dashboard. To download click [here](https://github.com/Zeina-Y/Coffee-Sales-Dashboard/blob/main/coffeeOrdersData_Project.xlsx)
 - **README.md**: This file, providing an overview and instructions for the project.
+- **Dashboard Screenshot**: You can have a snippet of the dashboard look [here](https://github.com/Zeina-Y/Coffee-Sales-Dashboard/blob/main/Dashboard_Screenshot.png)
 
 
 
